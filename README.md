@@ -2,13 +2,13 @@
 
 	
 - Simulation de deux voitures qu'il faut faire avancer
-	- Actions que l'on doit pouvoir faire dans le cadre de la simulation
-		- creer voiture // Permet de créer une voiture ( les variables nécessaires pour une voiture )
+	- Actions que l'on doit pouvoir faire dans le cadre de la simulation ( faire des fonctions )
+		- creerVoiture // Permet de créer une voiture ( les variables nécessaires pour une voiture )
 		- mettreEssence // Permet de mettre un nombre de littre defini dans une voiture, affiche un message à l'écran de l'action effectué ( ex: la voiture 1
 		- rouler // Permet de faire rouler un nombre de kilometre à une voiture
 		- afficherTableauDeBord // Permet d'afficher le nom de la voiture, l'état du kilometrage, indicateur de reserve et contenu du reservoir
 		
-	- Données dont vous allez avoir besoins pour une voiture:
+	- Données dont vous allez avoir besoin pour chaque voiture:
 		- nomVoiture // Contiendra la marque et la puissance de la voiture
 		- capacitéReservoir // Capacité maximale du réservoir de la voiture
 		- contenuReservoir // Contient le contenu courrant du réservoir
