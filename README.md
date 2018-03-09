@@ -70,3 +70,4 @@
 - Coder et tester
 - Conclusion
 	- Voir que tous les problèmes de la programmation procédural sont résolu
+- Pour la correction: [simulation_poo.php](simulation_poo.php)
