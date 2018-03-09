@@ -22,8 +22,8 @@
 		- capacitéReservoir: Capacité maximale du réservoir de la voiture
 		- contenuReservoir: Contient le contenu courrant du réservoir
 		- kilometrage: Nombre de kilometre total effectué par la voiture
-		- passageIndicateurReserveRouge: Volume en dessous du quel l'indicateurReserveRouge doit être alumé 
-		- indicateurReserveRouge: Alumé si on est passé en réserve ( true ), si non eteint ( false )
+		- passageIndicateurReserveRouge: Volume en dessous du quel l'indicateurReserveRouge doit être allumé 
+		- indicateurReserveRouge: Allumé si on est passé en réserve ( true ), si non eteint ( false )
 		- consommationLitreAu100: Donne la consommation moyenne en nombre de litre pour 100 kilometre
 	
 - Faites votre simulation
@@ -33,19 +33,19 @@
 			- contenuReservoir de 0 à la création
 			- kilometrage de 0
 			- passageIndicateurReserveRouge à 15 litres
-			- indicateurReserveRouge alumé ( puisqu'il n'y a pas d'essence )
+			- indicateurReserveRouge allumé ( puisqu'il n'y a pas d'essence )
 			- consommationLitreAu100 de 11 litres ( car c'est une super sportive )
 		- Creez une Citroen 2 CV
 			- capacitéReservoir de 28 litres
 			- contenuReservoir de 0
 			- kilometrage de 0
 			- passageIndicateurReserveRouge à 7 litres
-			- indicateurReserveRouge alumé
+			- indicateurReserveRouge allumé
 			- consommationLitreAu100 de 6.5 litres
 	- Création de deux conducteurs ( un avec conduite sportive l'autre avec conduite calme)
 	- Faites le plein pour les deux voitures
 	- Affecter un conducteur à chaque voiture
-	- Faites des itération jusqu'à ce qu'une des deux voitures ait son indicateurRouge alumé
+	- Faites des itération jusqu'à ce qu'une des deux voitures ait son indicateurRouge allumé
 		- faire rouler 100 km chaque voiture
 
 ## Point tous ensemble sur les failles du code procédural
@@ -62,7 +62,7 @@
 	- Propriétés, methodes
 	- setters getters
 - Utilisation d'un objet
-	- Création d'un objet
+	- Création d'un objet ( Instanciation )
 	- Accès aux propriétés et méthodes
 	
 ## Reprendre la simulation des voitures en POO
