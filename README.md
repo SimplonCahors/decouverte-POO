@@ -47,6 +47,7 @@
 	- Affecter un conducteur à chaque voiture
 	- Faites des itération jusqu'à ce qu'une des deux voitures ait son indicateurRouge allumé
 		- faire rouler 100 km chaque voiture
+- Pour la correction: [simulation_procedurale.php](simulation_procedurale.php)
 
 ## Point tous ensemble sur les failles du code procédural
 - lisibilité
