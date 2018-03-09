@@ -4,7 +4,7 @@
 ## Simulation de deux voitures qu'il faut faire avancer avec leur conducteurs
 - Actions que l'on doit pouvoir faire dans le cadre de la simulation ( faire des fonctions )
 	- creerVoiture: Permet de créer une voiture ( les variables nécessaires pour une voiture )
-	- mettreEssence: Permet de mettre un nombre de littre defini dans une voiture, affiche un message à l'écran de l'action effectué ( ex: la voiture 1
+	- mettreEssence: Permet de mettre un nombre de littre defini dans une voiture, affiche un message à l'écran de l'action effectué ( ex: Voiture Ferrari ajoute 50 litre d'essence )
 	- entreeConducteur: Permet d'affecter un conducteur à la voiture
 	- rouler: 
 		- Permet de faire rouler un nombre de kilometre défini à une voiture
